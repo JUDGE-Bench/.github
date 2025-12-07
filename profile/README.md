@@ -10,7 +10,7 @@ The dataset is licensed under the accompanied license.
 
 In the following you can see an overall performance of LLM-based judgement techniques and models on the benchmarking dataset:
 
-[figures/CU_heatmap.pdf](./figures/CU_heatmap.pdf)
+[figures/CU_heatmap.pdf](figures/CU_heatmap.pdf)
 
 More results you can find in the paper.
 
